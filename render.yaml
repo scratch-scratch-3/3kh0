@@ -3,3 +3,4 @@
     name: nxtwallpapers
     env: node
     plan: free
+    Startcommand: npm install
