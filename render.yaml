@@ -3,4 +3,5 @@
     name: nxtwallpapers
     env: node
     plan: free
-    Startcommand: npm install
+    Startcommand: render.yaml
+    
