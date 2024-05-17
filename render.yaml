@@ -3,5 +3,5 @@
     name: nxtwallpapers
     env: node
     plan: free
-    Startcommand: render.yaml
+    Startcommand: node index.js
     
