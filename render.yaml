@@ -1,7 +1,1 @@
- services:
-  - type: web
-    name: nxtwallpapers
-    env: node
-    plan: free
-    Startcommand: port 8080
-    
+ 
