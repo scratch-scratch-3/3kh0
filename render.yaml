@@ -3,5 +3,5 @@
     name: nxtwallpapers
     env: node
     plan: free
-    Startcommand: node index.js
+    Startcommand: port 8080
     
